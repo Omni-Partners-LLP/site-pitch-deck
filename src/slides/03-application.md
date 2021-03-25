@@ -159,73 +159,73 @@
 
 ### Application - AML/KYC
 
-![](appscreens/amk_kyc/1.png)
+![](appscreens/aml_kyc/1.png)
 
 ---
 
 ### Application - AML/KYC
 
-![](appscreens/amk_kyc/2.png)
+![](appscreens/aml_kyc/2.png)
 
 ---
 
 ### Application - AML/KYC
 
-![](appscreens/amk_kyc/3.png)
+![](appscreens/aml_kyc/3.png)
 
 ---
 
 ### Application - AML/KYC
 
-![](appscreens/amk_kyc/4.png)
+![](appscreens/aml_kyc/4.png)
 
 ---
 
 ### Application - AML/KYC
 
-![](appscreens/amk_kyc/5.png)
+![](appscreens/aml_kyc/5.png)
 
 ---
 
 ### Application - AML/KYC
 
-![](appscreens/amk_kyc/6.png)
+![](appscreens/aml_kyc/6.png)
 
 ---
 
 ### Application - AML/KYC
 
-![](appscreens/amk_kyc/7.png)
+![](appscreens/aml_kyc/7.png)
 
 ---
 
 ### Application - AML/KYC
 
-![](appscreens/amk_kyc/8.png)
+![](appscreens/aml_kyc/8.png)
 
 ---
 
 ### Application - AML/KYC
 
-![](appscreens/amk_kyc/9.png)
+![](appscreens/aml_kyc/9.png)
 
 ---
 
 ### Application - AML/KYC
 
-![](appscreens/amk_kyc/10.png)
+![](appscreens/aml_kyc/10.png)
 
 ---
 
 ### Application - AML/KYC
 
-![](appscreens/amk_kyc/11.png)
+![](appscreens/aml_kyc/11.png)
 
 ---
 
 ### Application - AML/KYC - Signed
 
-![](appscreens/amk_kyc/12.png)
+![](appscreens/aml_kyc/12.png)
 
 ---
 
