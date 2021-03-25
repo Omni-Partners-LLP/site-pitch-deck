@@ -23,8 +23,9 @@ Other environments
 
 ---
 
-# Presentation
-- System run-through and current functionality
-- Current priorities and goals
-- Upcoming features
-- Q & A
+# Topics
+- Enquiries, DIP and pop-up Calculator (David)
+- Application (Zim)
+- Case Summary and Loan Servicing (Bartek)
+- Pipeline/Reporting Status (David)
+- Upcoming features and Q & A

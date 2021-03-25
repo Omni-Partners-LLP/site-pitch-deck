@@ -8,9 +8,21 @@
 
 # Enquiries
 
-- Minimal inputs required
+- Single page - minimal inputs required
 - Estimated values added to pipeline
 - Calculations currently manual using the pop-up calculator
+
+---
+
+### Enquiry Form - New
+
+![](enquiry.png)
+
+---
+
+### Enquiry Form - Edit
+
+![](enquiry2.png)
 
 ---
 
@@ -52,3 +64,89 @@
 ### DIP - Introducer Details
 
 ![](dip2.png)
+
+---
+
+### DIP - Introducer Details
+
+![](dip2.png)
+
+---
+
+### DIP - Introducer Details
+
+![](dip3.png)
+
+---
+
+### DIP - Introducer Details
+
+![](dip4.png)
+
+---
+
+### DIP - Type of Loan
+
+![](dip5.png)
+
+---
+
+### DIP - Type of Applicant
+
+![](dip6.png)
+
+---
+
+### DIP - Type of Applicant
+
+![](dip6b.png)
+
+---
+
+### DIP - Applicant Details
+
+![](dip7.png)
+
+---
+
+### DIP - Applicant Details
+
+![](dip8.png)
+
+---
+
+### DIP - Security Details
+
+![](dip9.png)
+
+---
+
+### DIP - Security Details
+
+![](dip9b.png)
+
+---
+
+### DIP - Security Details
+
+![](dip10.png)
+
+---
+
+### DIP - Security Details
+
+![](dip11.png)
+
+---
+
+### DIP - Security Details
+
+![](dip12.png)
+
+---
+
+### DIP - Loan Details
+
+![](dip13.png)
+
+---
