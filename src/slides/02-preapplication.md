@@ -150,3 +150,32 @@
 ![](dip13.png)
 
 ---
+
+### DIP - Financial Details
+
+![](dip14.png)
+
+---
+
+### DIP - Financial Details
+
+![](dip15.png)
+
+---
+
+### DIP - Financial Details
+
+![](dip16.png)
+
+---
+
+### DIP - Financial Details - Drawdown Split
+
+![](dip17.png)
+
+---
+
+### DIP - Summary
+
+![](dip18.png)
+
