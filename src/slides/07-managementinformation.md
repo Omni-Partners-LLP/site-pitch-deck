@@ -11,8 +11,3 @@
 ### Pipeline - In Progress
 
 ![](pipeline1.png)
-
----
-
-
-
