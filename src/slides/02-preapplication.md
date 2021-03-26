@@ -48,7 +48,7 @@
 # DIP
 
 - Most fields required
-- Wizard process
+- Guided data entry flow
 - Summary of calculations shown at the end
 - Results in a DIP document (in PDF format)
 - Can convert an Equiry or create from scratch

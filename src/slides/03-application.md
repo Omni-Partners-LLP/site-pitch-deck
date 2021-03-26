@@ -2,7 +2,7 @@
 
 - Always started from an Issued DIP
 - All details from the Application form are available in later stages
-- Wizard flows for entering data
+- Guided flows for entering data
 - Read-only summary view to show all data in compact form
 - Facility Letter can be generated 
 
