@@ -8,22 +8,6 @@
 - Case Notes can be added for arbitrary information
 - All data is fixed once added - corrections are journalled
 
----
-
-### Completion - Overview
-
-
-
-
-
-
-
-
-
-
-
-
-
 --- 
 
 # Redemption

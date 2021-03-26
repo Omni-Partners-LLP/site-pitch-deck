@@ -486,3 +486,9 @@
 ![](appscreens/application_summary/1.png)
 
 ---
+
+### Application - Completed Application Summary
+
+![](appscreens/application_summary/2.png)
+
+---

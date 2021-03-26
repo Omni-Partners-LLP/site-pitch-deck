@@ -4,9 +4,7 @@
 - Free text inputs on various details divided into sections
 - Read-Only Summary View
 
----
 
-### Case Summary - View Case Summary
 
 
 

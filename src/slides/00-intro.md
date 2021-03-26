@@ -3,11 +3,12 @@
 
 ---
 
-# Areas covered
-- Originations
-- Loan Servicing
-- Finance
-- Management Information
+# Topics
+- Enquiries, DIP and pop-up Calculator (David)
+- Application (Zim)
+- Case Summary and Loan Servicing (Bartek)
+- Pipeline/Reporting Status (David)
+- Upcoming features and Q & A
 
 ---
 
@@ -20,12 +21,3 @@ Main environments
 Other environments
 - Live Backup (https://staging.app.omni.co.uk:5111) - test code with nightly backup data from Live
 - Feature Test (https://test.app.omni.co.uk:5111) - used to test a larger change during technical review 
-
----
-
-# Topics
-- Enquiries, DIP and pop-up Calculator (David)
-- Application (Zim)
-- Case Summary and Loan Servicing (Bartek)
-- Pipeline/Reporting Status (David)
-- Upcoming features and Q & A
