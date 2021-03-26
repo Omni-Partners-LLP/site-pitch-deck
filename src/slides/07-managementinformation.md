@@ -1,16 +1,18 @@
-# Management Information
+# Pipeline
 
-- Pipeline
-- Other pages/reports TBC
+- Test version pointing at LiveBackup is live now
+- Initial charting can be quickly expanded
+- Export to CSV
+- Layout adapts for smaller screens
+- Uses same back-end API as main system
 
 ---
 
-### Pipeline
+### Pipeline - In Progress
 
-- Test version pointing at LiveBackup is on https://staging.app.omni.co.uk:5311/
-- Testing new website components
-- Initial charting could be quickly expanded to additional breakdowns
-- Export to CSV
-- Flexible layout to work better with different screen resolutions
-- Uses same back-end API as main site to ensure consistent results
+![](pipeline1.png)
+
+---
+
+
 
