@@ -490,5 +490,3 @@
 ### Application - Completed Application Summary
 
 ![](appscreens/application_summary/2.png)
-
----
